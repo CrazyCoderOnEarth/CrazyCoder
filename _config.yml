@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://feedliu.github.io
+url: https://crazycoderonearth.github.io
 date_format: "ordinal"
-title: "Feedliu's Blogs"
+title: "CrazyCoder's Blogs"
 subtitle: "Share My Coding Life"
 description: "Share My Coding Life"
-keywords: Feedliu
+keywords: CrazyCoder
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: feedliu
+author: CrazyCoder
 organization: 
 organization_url: 
-github_username: feedliu
-location: Beijing, China
-email: feedliu15@gmail.com
+github_username: CrazyCoder
+location: US
+email: matthewdong404@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: feedliu/feedliu.github.io
+repository: crazycoderonearth/crazycoderonearth.github.io
 
 # ---------------- #
 #      Comments    #
@@ -121,5 +121,5 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: UA-134594282-1
+#google:
+#    analytics_id: UA-134594282-1
