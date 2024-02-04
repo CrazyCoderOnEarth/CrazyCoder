@@ -4,6 +4,16 @@ title: 如何利用SEO快速为自己的产品带来流量
 categories: 独立开发,出海
 description: 如何利用SEO快速为自己的产品带来流量
 keywords: SEO, IndieHacker
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-46N085ZJMZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-46N085ZJMZ');
+</script>
 ---
 
 独立开发者却的不是技术，而是市场、推广和运营。特备是利用SEO （搜索引擎优化技术）来提高自己产品的曝光度。
