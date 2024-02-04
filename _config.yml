@@ -103,9 +103,9 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: CrazyCoder
-    repo: blog-comments
-    clientID: ca4598e672bce6a2e7c7
-    clientSecret: 8daa564a7d0c2e664c5771ab2869dd7041345b09
+    repo: Blog-Comment-Crazycoderonearth
+    clientID: 4d8bd193d38c70f73c08
+    clientSecret: f688e22629d02f15fcf1cd825a6b892a15eca9d5
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
