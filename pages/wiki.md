@@ -8,7 +8,7 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 在世上的日子不多了，你当写高质量的代码！
 
 <ul class="listing">
 {% for wiki in site.wiki %}
