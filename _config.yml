@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: CrazyCoder
-    repo: blog-comments
+    owner: crazycoderonearth
+    repo: Blog-Comment-Crazycoderonearth
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 4d8bd193d38c70f73c08
+        client_secret: f688e22629d02f15fcf1cd825a6b892a15eca9d5
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: CrazyCoder
+    owner: crazycoderonearth
     repo: Blog-Comment-Crazycoderonearth
     clientID: 4d8bd193d38c70f73c08
     clientSecret: f688e22629d02f15fcf1cd825a6b892a15eca9d5
