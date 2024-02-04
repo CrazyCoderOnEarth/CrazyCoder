@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Share my coding life
+description: I Code, therefore I Live
 keywords: CrazyCoderOnearth
 comments: true
 menu: About
