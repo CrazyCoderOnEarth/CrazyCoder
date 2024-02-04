@@ -8,7 +8,7 @@ menu: 分类
 permalink: /categories/
 ---
 
->当所有人都不相信你的时候，你选择相信了自己，并且成功了，这就是成为英雄的道路。
+>不能相信自己，要相信那一位!
 
 <section class="container posts-content">
 {% assign sorted_categories = site.categories | sort %}
